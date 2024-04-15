@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, declare the follow sentence in terminal:
+
+```bash
+export NEXT_PRIVATE_LOCAL_WEBPACK=true
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
