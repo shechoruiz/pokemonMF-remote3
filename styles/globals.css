@@ -105,3 +105,75 @@ a {
     color-scheme: dark;
   }
 }
+
+.steel {
+  background-color: #60A1B7;
+}
+
+.water {
+  background-color: #2A80EF;
+}
+
+.bug {
+  background-color: #91A019;
+}
+
+.dragon {
+  background-color: #5160E1;
+}
+
+.electric {
+  background-color: #FBC101;
+}
+
+.ghost {
+  background-color: #704071;
+}
+
+.fire {
+  background-color: #E62829;
+}
+
+.fairy {
+  background-color: #EE71EE;
+}
+
+.ice {
+  background-color: #3FD8FF;
+}
+
+.fighting {
+  background-color: #FE8100;
+}
+
+.normal {
+  background-color: #a5a5a5;
+}
+
+.grass {
+  background-color: #00ca91;
+}
+
+.psychic {
+  background-color: #EE4079;
+}
+
+.rock {
+  background-color: #AFA981;
+}
+
+.dark {
+  background-color: #50403E;
+}
+
+.ground {
+  background-color: #905121;
+}
+
+.poison {
+  background-color: #8F40CA;
+}
+
+.flying {
+  background-color: #80B9EE;
+}
